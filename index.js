@@ -80,7 +80,7 @@ app.group("/api/v2", (router) => {
 
 //create the home route
 app.get("/", (req, res) => {
-  res.send("End point B20");
+  res.send("End point B21");
 });
 
 //executed port
